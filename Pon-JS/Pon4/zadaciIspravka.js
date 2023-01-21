@@ -4,7 +4,7 @@
 
 console.log("Задатак са радним данима урађен са if/else")
 {
-    let dan = -1
+    let dan = 3
     
     if(dan <= 4 && dan >= 0){
         console.log("Данас је радни дан.")
