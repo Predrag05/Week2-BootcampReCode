@@ -39,3 +39,17 @@ console.log("-----------------------")
     }
 }
 
+
+console.log("-----------------------")
+
+{   
+    let N = 10
+    // let M = 5
+
+    for(let i = 0; i < N; i++){
+        let red = ''
+       red = '*'.repeat(N - i)
+        console.log(red)
+    }
+}
+
