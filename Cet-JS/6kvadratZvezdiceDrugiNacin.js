@@ -9,3 +9,5 @@ for(let i = 0; i < M - 2; i++){
     console.log(red)
 }
 console.log(pokolopac)
+
+
