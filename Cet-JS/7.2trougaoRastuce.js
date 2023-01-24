@@ -50,4 +50,18 @@
     }
 }
 
+{
+    let N = 9
+    let M = N
+
+    for(let i = 1; i <= N; i++){
+        let zve = '*'
+        let space = ' '
+        let red = space.repeat(M - i) + zve.repeat(i) + ' ' + zve.repeat(i)
+        console.log(red)
+    }
+}
+
+
+
 console.log("Браво Предраже за ово вежбање!!!")
